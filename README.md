@@ -18,7 +18,7 @@ It is built to demonstrate clean API design, relational database modeling, and s
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-github-repo-url>
+git clone <[your-github-repo-url](https://github.com/Prabhat1602/polling-api)>
 cd polling-api
 
 
